@@ -1,6 +1,4 @@
-Perfect ✅ — here’s a **single markdown page** that includes both the **README** and a ready-to-use **requirements.txt** section at the end. You can just copy-paste this whole thing into your repo as `README.md`.
 
-```markdown
 # 📝 NL2SQL – Natural Language to SQL
 
 This project converts **natural language queries** into **SQL statements** and executes them against a sample **SQLite database (`student.db`)**.  
@@ -114,5 +112,6 @@ sqlite3-binary
 ```
 
 ```
+
 
 

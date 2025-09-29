@@ -115,7 +115,4 @@ sqlite3-binary
 
 ```
 
----
 
-Do you want me to also **pin exact versions** (e.g., `streamlit==1.39.0`) so that anyone running your repo gets consistent results?
-```
